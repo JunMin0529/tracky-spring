@@ -132,4 +132,4 @@ Nike Run Club 앱을 벤치마킹 하여 제작하였습니다.
 
 # API 문서
 
-[API 문서 보러가기](./docs/api.html)
+[API 문서 보러가기](https://junmin0529.github.io/tracky-spring/api.html)

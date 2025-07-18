@@ -45,23 +45,6 @@ Nike Run Club 앱을 벤치마킹 하여 제작하였습니다.
   할지 깊이 고민했습니다. 또한, API URL을 어떻게 설계해야 기능의 의도를 직관적으로 드러낼 수 있을지에 대해서도 많은 노력을 기울였습니다. 이 경험을 통해 주석이나 추가 설명 없이도 팀원들이 제 코드를 쉽게
   이해할 수 있어야 한다는 점과, 명확하고 일관된 API 설계가 협업 효율성을 극대화한다는 것을 체감할 수 있었습니다.
 
-# ERD
-
-<img width="2737" height="1964" alt="Untitled" src="https://github.com/user-attachments/assets/f78c03cb-955f-4cb4-a47d-a24b2aa11b2b" />
-
-# 👥 팀원
-
-| 이름  | 역할  | GitHub                                       |
-|-----|-----|----------------------------------------------|
-| 문정준 | 팀장  | [@Sxias](https://github.com/Sxias)           |
-| 최재원 | 부팀장 | [@jjack-1](https://github.com/jjack-1)       |
-| 편준민 | 팀원  | [@JunMin0529](https://github.com/JunMin0529) |
-| 김세리 | 팀원  | [@roni243](https://github.com/roni243)       |
-
-<br />
-
-# ⚙️ 기술 스택
-
 ## 🛠️ 사용 기술
 
 <table>
@@ -96,6 +79,23 @@ Nike Run Club 앱을 벤치마킹 하여 제작하였습니다.
 </table>
 
 <br>
+
+# ERD
+
+<img width="2737" height="1964" alt="Untitled" src="https://github.com/user-attachments/assets/f78c03cb-955f-4cb4-a47d-a24b2aa11b2b" />
+
+# 팀원
+
+| 이름  | 역할  | GitHub                                       |
+|-----|-----|----------------------------------------------|
+| 문정준 | 팀장  | [@Sxias](https://github.com/Sxias)           |
+| 최재원 | 부팀장 | [@jjack-1](https://github.com/jjack-1)       |
+| 편준민 | 팀원  | [@JunMin0529](https://github.com/JunMin0529) |
+| 김세리 | 팀원  | [@roni243](https://github.com/roni243)       |
+
+<br />
+
+
 
 # 핵심 기능
 

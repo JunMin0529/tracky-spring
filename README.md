@@ -128,8 +128,6 @@ Nike Run Club 앱을 벤치마킹 하여 제작하였습니다.
 - 댓글 - 등록, 수정, 삭제
 - 좋아요 - 등록, 삭제
 
-# 보안할 점
-
 # API 문서
 
 [API 문서 보러가기](https://junmin0529.github.io/tracky-spring/api.html)
